@@ -1,0 +1,10 @@
+max-history=5
+font=Terminus 10
+background-color=#00000040
+border-size=2
+border-color=#000000BF
+border-radius=5
+default-timeout=20000
+ignore-timeout=1
+layer=overlay
+
